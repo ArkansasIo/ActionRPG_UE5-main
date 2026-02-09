@@ -41,3 +41,5 @@ void AWarriorBaseCharacter::PossessedBy(AController* NewController)
 
 
 
+
+// Auto-write marker

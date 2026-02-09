@@ -49,3 +49,5 @@ public:
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, meta = (TitleProperty = "InputTag"))
 	TArray<FWarriorInputActionConfig> AbilityInputActions;
 };
+
+// Auto-write marker

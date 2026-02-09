@@ -17,3 +17,5 @@ Allows players to gather resources and craft items, equipment, and consumables.
 
 ---
 *Integrate with inventory and item systems. Expand with new recipes and resources as needed.*
+
+// Auto-write marker

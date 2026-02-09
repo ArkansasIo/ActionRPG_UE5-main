@@ -12,3 +12,5 @@ public:
     AEnemyCharacter();
     // Add enemy-specific logic here
 };
+
+// Auto-write marker

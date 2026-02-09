@@ -18,3 +18,5 @@ Manages all items, equipment, and resources held by a character.
 
 ---
 *See InventoryComponent.h/cpp for code structure. Expand with new item types and logic as needed.*
+
+// Auto-write marker

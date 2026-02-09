@@ -66,3 +66,5 @@ private:
 public:
 	FORCEINLINE UHeroCombatComponent* GetHeroCombatComponent() const { return HeroCombatComponent; }
 };
+
+// Auto-write marker

@@ -8,3 +8,5 @@ void USocialComponent::CreateGuild(FName GuildName) { /* Add guild creation logi
 void USocialComponent::InviteToGuild(FName PlayerID) { /* Add guild invite logic here */ }
 void USocialComponent::SendFriendRequest(FName PlayerID) { /* Add friend request logic here */ }
 void USocialComponent::Chat(FString Message, FString Channel) { /* Add chat logic here */ }
+
+// Auto-write marker

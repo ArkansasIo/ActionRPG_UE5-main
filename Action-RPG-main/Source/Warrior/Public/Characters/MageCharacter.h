@@ -17,3 +17,5 @@ public:
     // Mage abilities
     void CastSpell();
 };
+
+// Auto-write marker

@@ -14,3 +14,5 @@
   - Special: Absorbs shadow damage
 - **Lore:**
   - The Hollow Tyrant rules the tower with an iron will, feeding on the souls of the lost.
+
+// Auto-write marker

@@ -12,3 +12,5 @@ public:
     AMMORPGHUD();
     // Add HUD logic here
 };
+
+// Auto-write marker

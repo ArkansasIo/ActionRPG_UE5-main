@@ -4,3 +4,5 @@
 - Rarity: Rare
 - Special Effect: Required for poison weapon upgrades
 - Notes: Add poison crafting logic and visual effects in Blueprint.
+
+// Auto-write marker

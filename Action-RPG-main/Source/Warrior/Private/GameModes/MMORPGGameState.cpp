@@ -5,3 +5,5 @@ AMMORPGGameState::AMMORPGGameState()
 {
     // Initialize game state logic here
 }
+
+// Auto-write marker

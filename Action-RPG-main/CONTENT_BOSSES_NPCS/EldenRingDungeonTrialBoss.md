@@ -13,3 +13,4 @@
   - Special: Stealth mode
 - **Lore:**
   - A deadly assassin lurking in the deepest dungeon trials.
+// Auto-write marker

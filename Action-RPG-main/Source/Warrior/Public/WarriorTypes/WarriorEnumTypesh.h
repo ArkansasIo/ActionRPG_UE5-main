@@ -20,3 +20,4 @@ enum class EWarriorSuccessType : uint8
 	Successful,
 	Failed
 };
+// Auto-write marker

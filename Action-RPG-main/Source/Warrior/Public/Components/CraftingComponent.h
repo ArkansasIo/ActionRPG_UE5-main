@@ -18,3 +18,5 @@ public:
     UFUNCTION(BlueprintCallable, Category="Crafting")
     void UpgradeItem(FName ItemID);
 };
+
+// Auto-write marker

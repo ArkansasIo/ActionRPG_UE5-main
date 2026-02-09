@@ -46,3 +46,5 @@ protected:
 	FActiveGameplayEffectHandle BP_ApplyEffectSpecHandleToTarget(AActor * TargetActor, const FGameplayEffectSpecHandle& InSpecHandle, EWarriorSuccessType& OutSuccessType);
 
 };
+
+// Auto-write marker

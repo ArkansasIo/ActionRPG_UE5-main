@@ -23,3 +23,5 @@ namespace Debug
 		}
 	}
 }
+
+// Auto-write marker

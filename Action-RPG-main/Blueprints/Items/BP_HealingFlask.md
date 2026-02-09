@@ -4,3 +4,5 @@
 - Rarity: Common
 - Effect: Restores 150 HP over 5 seconds
 - Notes: Add healing logic and refill mechanic in Blueprint.
+
+// Auto-write marker

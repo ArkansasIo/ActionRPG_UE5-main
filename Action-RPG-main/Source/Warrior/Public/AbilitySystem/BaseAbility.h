@@ -20,3 +20,5 @@ public:
     UFUNCTION(BlueprintCallable, Category="Ability")
     virtual void ActivateAbility();
 };
+
+// Auto-write marker

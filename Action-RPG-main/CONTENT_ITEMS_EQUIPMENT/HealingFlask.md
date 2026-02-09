@@ -6,3 +6,5 @@
 - **Special Effect:** Can be refilled at shrines
 - **Lore:**
   - A staple for adventurers, the healing flask is a lifeline in the harshest battles.
+
+// Auto-write marker

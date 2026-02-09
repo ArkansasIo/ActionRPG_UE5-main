@@ -29,3 +29,5 @@ public:
 private:
 	TArray< FGameplayAbilitySpecHandle> GrantedAbilitySpecHandles;
 };
+
+// Auto-write marker

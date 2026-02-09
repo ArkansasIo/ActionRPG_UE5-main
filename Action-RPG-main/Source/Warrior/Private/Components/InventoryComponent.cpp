@@ -17,3 +17,5 @@ void UInventoryComponent::RemoveItem(UBaseItem* Item)
         Items.Remove(Item);
     }
 }
+
+// Auto-write marker

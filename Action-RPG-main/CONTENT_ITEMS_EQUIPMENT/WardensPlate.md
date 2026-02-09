@@ -8,3 +8,5 @@
 - **Poise:** 40
 - **Special Effect:** Reduces stagger duration by 20%
 - **Lore:** Worn by the legendary wardens who guarded the gates of the ancient city.
+
+// Auto-write marker

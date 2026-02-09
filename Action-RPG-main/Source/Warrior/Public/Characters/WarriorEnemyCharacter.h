@@ -37,3 +37,5 @@ private:
 public:
 	FORCEINLINE UEnemyCombatComponent* GetEnemyCombatComponent() const { return EnemyCombatComponent; }
 };
+
+// Auto-write marker

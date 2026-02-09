@@ -54,3 +54,5 @@ void AWarriorEnemyCharacter::InitStartUpData()
 	);
 
 }
+
+// Auto-write marker

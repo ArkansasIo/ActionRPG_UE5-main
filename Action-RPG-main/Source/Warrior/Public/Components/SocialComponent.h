@@ -24,3 +24,5 @@ public:
     UFUNCTION(BlueprintCallable, Category="Social")
     void Chat(FString Message, FString Channel);
 };
+
+// Auto-write marker

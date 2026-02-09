@@ -16,3 +16,5 @@ public:
     UFUNCTION(BlueprintCallable, Category="Inventory")
     void RemoveItem(UBaseItem* Item);
 };
+
+// Auto-write marker

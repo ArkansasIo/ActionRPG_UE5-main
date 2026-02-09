@@ -39,3 +39,5 @@
 
 ---
 *Expand this list as new content is designed. Each entry can be detailed in its own file for stats, abilities, and lore.*
+
+// Auto-write marker

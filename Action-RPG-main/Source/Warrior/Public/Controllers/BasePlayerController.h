@@ -12,3 +12,5 @@ public:
     ABasePlayerController();
     // Add player input and logic here
 };
+
+// Auto-write marker

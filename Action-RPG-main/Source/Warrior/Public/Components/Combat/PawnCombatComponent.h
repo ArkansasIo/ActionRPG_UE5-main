@@ -50,3 +50,5 @@ protected:
 private:
 	TMap<FGameplayTag, AWarriorWeaponBase*> CharacterCarriedWeaponMap;
 };
+
+// Auto-write marker

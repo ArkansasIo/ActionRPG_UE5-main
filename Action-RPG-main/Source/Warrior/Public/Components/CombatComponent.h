@@ -24,3 +24,5 @@ public:
     UFUNCTION(BlueprintCallable, Category="Combat")
     void HandleDeath(AActor* Target);
 };
+
+// Auto-write marker

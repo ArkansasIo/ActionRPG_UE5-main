@@ -40,3 +40,5 @@ void UDataAsset_StartUpDataBase::GrantAbilities(const TArray<TSubclassOf<UWarrio
 	}
 
 }
+
+// Auto-write marker

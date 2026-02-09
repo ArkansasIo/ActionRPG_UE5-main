@@ -13,3 +13,4 @@
   - Special: None
 - **Lore:**
   - Once proud warriors, now mindless servants of darkness.
+// Auto-write marker

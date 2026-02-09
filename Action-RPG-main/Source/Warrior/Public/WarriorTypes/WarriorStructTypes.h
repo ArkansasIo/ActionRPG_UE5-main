@@ -43,3 +43,4 @@ struct FWarriorHeroWeaponData
 	UPROPERTY(EditDefaultsOnly, BlueprintReadonly)
 	FScalableFloat WeaponBaseDamage;
 };
+// Auto-write marker

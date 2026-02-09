@@ -7,3 +7,5 @@
 - **Special Effect:** Required for mythic upgrades
 - **Lore:**
   - Formed in the heart of magical storms, Ether Crystals are sought by smiths and mages alike.
+
+// Auto-write marker

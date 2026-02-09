@@ -62,3 +62,5 @@
 
 ---
 *This completes the 12-act, 36-chapter main story structure. Expand each chapter with quests, cutscenes, boss fights, and lore as needed.*
+
+// Auto-write marker

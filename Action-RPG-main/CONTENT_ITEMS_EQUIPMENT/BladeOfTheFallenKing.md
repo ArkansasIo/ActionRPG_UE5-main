@@ -10,3 +10,5 @@
 - **Crit Chance:** 10%
 - **Special Effect:** On hit, chance to inflict Bleed
 - **Lore:** Forged from the soul of a forgotten monarch, this blade thirsts for the blood of tyrants.
+
+// Auto-write marker

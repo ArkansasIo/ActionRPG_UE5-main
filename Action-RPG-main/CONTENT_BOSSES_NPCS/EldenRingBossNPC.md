@@ -13,3 +13,4 @@
   - Special: Life steal
 - **Lore:**
   - Ruler of the palace, feared for her cruel power.
+// Auto-write marker

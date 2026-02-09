@@ -22,3 +22,5 @@ private:
 	UPROPERTY(EditDefaultsOnly, Category = "StartUpData", meta = (TitleProperty = "InputTag"))
 	TArray<FWarriorHeroAbilitySet> HeroStartupAbilitySets;
 };
+
+// Auto-write marker

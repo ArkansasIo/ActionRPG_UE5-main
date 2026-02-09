@@ -26,3 +26,5 @@ public:
 private:
 	TWeakObjectPtr<AWarriorEnemyCharacter> CachedWarriorEnemyCharacter;
 };
+
+// Auto-write marker

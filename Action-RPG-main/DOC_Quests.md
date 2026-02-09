@@ -18,3 +18,5 @@ Manages all quests, objectives, and quest progression for players.
 
 ---
 *See BaseQuest.h/cpp for code structure. Expand with new quest types and branching logic as needed.*
+
+// Auto-write marker

@@ -20,3 +20,5 @@ public:
     UFUNCTION(BlueprintCallable, Category="Quest")
     virtual void CompleteQuest();
 };
+
+// Auto-write marker

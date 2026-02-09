@@ -15,3 +15,5 @@ class WARRIOR_API UWarriorBaseAnimInstance : public UAnimInstance
 	GENERATED_BODY()
 	
 };
+
+// Auto-write marker

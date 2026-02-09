@@ -12,3 +12,5 @@ public:
     APlayerCharacter();
     // Add player-specific logic here
 };
+
+// Auto-write marker

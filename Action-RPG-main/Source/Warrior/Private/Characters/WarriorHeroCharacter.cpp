@@ -126,3 +126,5 @@ void AWarriorHeroCharacter::Input_AbilityInputReleased(FGameplayTag InInputTag)
 {
 	WarriorAbilitySystemComponent->OnAblityInputReleased(InInputTag);
 }
+
+// Auto-write marker

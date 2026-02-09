@@ -5,3 +5,5 @@ USaveGameData::USaveGameData()
 {
     // Initialize save data here
 }
+
+// Auto-write marker

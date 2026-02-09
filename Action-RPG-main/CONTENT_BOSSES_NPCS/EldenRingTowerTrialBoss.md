@@ -13,3 +13,4 @@
   - Special: Absorbs wind attacks
 - **Lore:**
   - Guardian of the tower's highest trial, master of storms.
+// Auto-write marker

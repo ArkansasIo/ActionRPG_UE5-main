@@ -20,3 +20,5 @@ Supports player grouping, guilds, friends, and social features for multiplayer i
 
 ---
 *Integrate with networking and UI systems. Expand with new social features as needed.*
+
+// Auto-write marker

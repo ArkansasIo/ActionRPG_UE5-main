@@ -5,3 +5,5 @@ void UDialogueComponent::StartDialogue()
 {
     // Add dialogue start logic here
 }
+
+// Auto-write marker

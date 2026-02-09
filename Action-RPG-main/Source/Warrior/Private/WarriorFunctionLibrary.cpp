@@ -67,3 +67,5 @@ UPawnCombatComponent* UWarriorFunctionLibrary::BP_GetPawnCombatComponentFromActo
 
 	return CombatComponent;
 }
+
+// Auto-write marker

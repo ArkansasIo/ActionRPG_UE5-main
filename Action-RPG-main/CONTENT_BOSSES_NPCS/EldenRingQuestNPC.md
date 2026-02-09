@@ -13,3 +13,4 @@
   - Special: Immune to confusion
 - **Lore:**
   - A sage who guides lost adventurers, keeper of ancient lore.
+// Auto-write marker

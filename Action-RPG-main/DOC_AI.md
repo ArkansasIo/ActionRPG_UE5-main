@@ -20,3 +20,5 @@ Controls enemy, NPC, and boss behaviors, including movement, targeting, and deci
 
 ---
 *See BaseAIController.h/cpp for code structure. Expand with new AI behaviors and blackboard/behavior tree logic as needed.*
+
+// Auto-write marker

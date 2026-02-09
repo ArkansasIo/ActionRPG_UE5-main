@@ -21,3 +21,5 @@ Handles all active and passive abilities, skills, and spells for characters and 
 
 ---
 *See BaseAbility.h/cpp for code structure. Expand with new abilities as needed.*
+
+// Auto-write marker

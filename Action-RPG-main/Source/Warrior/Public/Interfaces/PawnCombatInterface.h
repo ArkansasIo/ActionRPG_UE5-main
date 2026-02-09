@@ -26,3 +26,5 @@ class WARRIOR_API IPawnCombatInterface
 public:
 	virtual UPawnCombatComponent* GetPawnCombatComponent() const = 0;
 };
+
+// Auto-write marker

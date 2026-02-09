@@ -48,3 +48,5 @@ FGameplayEffectSpecHandle UWarriorHeroGameplayAbility::MakeHeroDamageEffectSpecH
 
     return EffectSpecHandle;
 }
+
+// Auto-write marker

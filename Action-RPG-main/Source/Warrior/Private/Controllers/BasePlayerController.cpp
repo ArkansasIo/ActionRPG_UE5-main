@@ -5,3 +5,5 @@ ABasePlayerController::ABasePlayerController()
 {
     // Initialize player controller logic here
 }
+
+// Auto-write marker

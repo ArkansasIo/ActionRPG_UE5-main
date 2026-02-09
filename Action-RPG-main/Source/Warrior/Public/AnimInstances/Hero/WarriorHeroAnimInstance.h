@@ -32,3 +32,5 @@ protected:
 
 	float IdleElapsedTime;
 };
+
+// Auto-write marker

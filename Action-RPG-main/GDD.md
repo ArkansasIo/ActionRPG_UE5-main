@@ -49,3 +49,5 @@ Mature gamers who enjoy challenging combat, deep lore, and online multiplayer ex
 
 ---
 *This GDD is a living document and will evolve as development progresses.*
+
+// Auto-write marker

@@ -56,3 +56,5 @@ void UWarriorAttributeSet::PostGameplayEffectExecute(const FGameplayEffectModCal
 
 	}
 }
+
+// Auto-write marker

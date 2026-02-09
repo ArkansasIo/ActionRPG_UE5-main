@@ -12,3 +12,5 @@ TArray<FGameplayAbilitySpecHandle> AWarriorHeroWeapon::GetGrantedAbilitySpecHand
 {
 	return GrantedAbilitySpecHandles;
 }
+
+// Auto-write marker

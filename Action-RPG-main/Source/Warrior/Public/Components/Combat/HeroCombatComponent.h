@@ -28,3 +28,5 @@ public:
 	virtual void OnHitTargetActor(AActor* HitActor) override;
 	virtual void OnWeaponPulledFromTargetActor(AActor* InteractedActor) override;
 };
+
+// Auto-write marker

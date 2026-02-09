@@ -14,3 +14,5 @@
   - Special: Immune to crowd control
 - **Lore:**
   - Once the ruler of all realms, Vhalgor's soul was bound to the citadel after his betrayal by the gods. His rage fuels the endless war in the ruins.
+
+// Auto-write marker

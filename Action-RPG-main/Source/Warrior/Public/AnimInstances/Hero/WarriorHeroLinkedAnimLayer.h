@@ -19,3 +19,5 @@ public:
 	UFUNCTION(BlueprintPure, meta = (BlueprintThreadSafe))
 	UWarriorHeroAnimInstance* GetHeroAnimInstance() const;
 };
+
+// Auto-write marker

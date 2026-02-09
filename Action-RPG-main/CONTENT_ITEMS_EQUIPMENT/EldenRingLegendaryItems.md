@@ -50,3 +50,4 @@
     - Weight: 0.5
   - **Lore:**
     - Summons the legendary assassin shade.
+// Auto-write marker

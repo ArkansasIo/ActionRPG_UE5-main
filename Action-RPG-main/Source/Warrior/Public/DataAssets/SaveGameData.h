@@ -12,3 +12,5 @@ public:
     USaveGameData();
     // Add save data variables here
 };
+
+// Auto-write marker

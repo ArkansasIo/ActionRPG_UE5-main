@@ -17,3 +17,5 @@ Handles saving and loading of player progress, world state, and settings.
 
 ---
 *Integrate with inventory, quest, and stat systems. Expand with new save data as needed.*
+
+// Auto-write marker

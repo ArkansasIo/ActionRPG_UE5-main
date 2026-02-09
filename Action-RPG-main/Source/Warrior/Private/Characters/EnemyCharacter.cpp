@@ -5,3 +5,5 @@ AEnemyCharacter::AEnemyCharacter()
 {
     // Initialize enemy-specific logic here
 }
+
+// Auto-write marker

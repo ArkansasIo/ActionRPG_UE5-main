@@ -22,3 +22,5 @@ public:
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Stats")
     int32 Luck;
 };
+
+// Auto-write marker

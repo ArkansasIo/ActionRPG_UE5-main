@@ -21,3 +21,5 @@ Handles all combat interactions, including attacks, damage, defense, and status 
 
 ---
 *Integrates with Abilities, StatComponent, and AI systems. Expand with new combat features as needed.*
+
+// Auto-write marker

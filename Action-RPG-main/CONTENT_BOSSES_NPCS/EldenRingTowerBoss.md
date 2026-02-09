@@ -13,3 +13,4 @@
   - Special: Absorbs magic attacks
 - **Lore:**
   - Keeper of ancient secrets, master of arcane arts.
+// Auto-write marker

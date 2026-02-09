@@ -11,3 +11,5 @@ class WARRIOR_API UGameHUDWidget : public UUserWidget
 public:
     // Add in-game HUD UI logic here
 };
+
+// Auto-write marker

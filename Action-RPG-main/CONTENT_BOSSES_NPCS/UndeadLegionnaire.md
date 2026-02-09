@@ -13,3 +13,5 @@
   - Special: Resistant to poison
 - **Lore:**
   - Once loyal soldiers, now cursed to serve Vhalgor for eternity, their bodies held together by dark magic.
+
+// Auto-write marker

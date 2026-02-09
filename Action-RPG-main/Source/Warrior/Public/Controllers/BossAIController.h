@@ -17,3 +17,5 @@ public:
     UFUNCTION(BlueprintCallable, Category="BossAI")
     void HandleAggro(AActor* Target);
 };
+
+// Auto-write marker

@@ -13,3 +13,4 @@
   - Special: Regenerates health in darkness
 - **Lore:**
   - Guardian of the deepest catacombs, it feeds on lost souls.
+// Auto-write marker

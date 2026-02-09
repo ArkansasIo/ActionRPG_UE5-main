@@ -12,3 +12,5 @@
   - Defense: 10
 - **Lore:**
   - Miriel is the last of the ancient oracles, her wisdom guiding heroes through the darkest times. She remembers the world before the fall of the gods.
+
+// Auto-write marker

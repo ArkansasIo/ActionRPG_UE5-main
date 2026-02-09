@@ -13,3 +13,5 @@ public class WarriorTarget : TargetRules
 		ExtraModuleNames.Add("Warrior");
 	}
 }
+
+// Auto-write marker

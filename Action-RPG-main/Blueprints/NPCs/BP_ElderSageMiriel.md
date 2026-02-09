@@ -5,3 +5,5 @@
 - Title: The Last Oracle
 - Role: Quest Giver, Lore Keeper
 - Notes: Add dialogue tree and quest logic in Blueprint.
+
+// Auto-write marker

@@ -12,3 +12,5 @@ public:
     AMMORPGPlayerState();
     // Add player state logic here
 };
+
+// Auto-write marker

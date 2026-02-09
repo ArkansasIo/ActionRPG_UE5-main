@@ -5,3 +5,5 @@ AMMORPGGameMode::AMMORPGGameMode()
 {
     // Initialize game mode logic here
 }
+
+// Auto-write marker

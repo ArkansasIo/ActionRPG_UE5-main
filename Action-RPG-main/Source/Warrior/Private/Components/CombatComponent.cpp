@@ -8,3 +8,5 @@ void UCombatComponent::BlockAttack() { /* Add block logic */ }
 void UCombatComponent::Dodge() { /* Add dodge logic */ }
 void UCombatComponent::Parry() { /* Add parry logic */ }
 void UCombatComponent::HandleDeath(AActor* Target) { /* Add death handling */ }
+
+// Auto-write marker

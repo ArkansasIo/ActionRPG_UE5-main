@@ -153,3 +153,5 @@
 
 ---
 *Each zone can be expanded with its own file for detailed lore, points of interest, dungeons, and unique features.*
+
+// Auto-write marker

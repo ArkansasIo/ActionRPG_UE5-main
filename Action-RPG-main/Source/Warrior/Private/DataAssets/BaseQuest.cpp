@@ -12,3 +12,5 @@ void UBaseQuest::CompleteQuest()
     bIsCompleted = true;
     // Add quest completion logic
 }
+
+// Auto-write marker

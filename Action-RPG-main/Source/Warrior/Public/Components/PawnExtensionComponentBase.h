@@ -29,3 +29,5 @@ protected:
 		return GetOwningPawn<APawn>()->GetController<T>();
 	}
 };
+
+// Auto-write marker

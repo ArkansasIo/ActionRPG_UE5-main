@@ -10,3 +10,5 @@
   - Defeat the arena champions
 - **Lore:**
   - The Eternal Arena is a proving ground for the greatest warriors, where only the worthy survive.
+
+// Auto-write marker

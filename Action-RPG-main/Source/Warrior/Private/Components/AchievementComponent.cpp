@@ -9,3 +9,5 @@ void UAchievementComponent::UnlockAchievement(FName AchievementID)
         // Add reward logic here
     }
 }
+
+// Auto-write marker

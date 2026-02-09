@@ -11,3 +11,5 @@ void ARogueCharacter::PerformStealthAttack()
 {
     // Rogue stealth attack logic
 }
+
+// Auto-write marker

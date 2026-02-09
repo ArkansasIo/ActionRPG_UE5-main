@@ -11,3 +11,5 @@ class WARRIOR_API UMainMenuWidget : public UUserWidget
 public:
     // Add main menu UI logic here
 };
+
+// Auto-write marker

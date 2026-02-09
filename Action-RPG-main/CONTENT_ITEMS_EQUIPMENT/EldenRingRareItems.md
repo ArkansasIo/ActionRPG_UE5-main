@@ -44,3 +44,4 @@
     - Scaling: None
   - **Lore:**
     - Medallion that increases maximum HP.
+// Auto-write marker

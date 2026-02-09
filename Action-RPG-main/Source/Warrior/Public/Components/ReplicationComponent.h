@@ -12,3 +12,5 @@ public:
     UReplicationComponent();
     // Add replication logic here
 };
+
+// Auto-write marker

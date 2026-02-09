@@ -116,3 +116,5 @@
     - Weight: 10.0
   - **Lore:**
     - Sword imbued with holy power.
+
+// Auto-write marker

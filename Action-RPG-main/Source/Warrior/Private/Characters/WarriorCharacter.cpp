@@ -11,3 +11,5 @@ void AWarriorCharacter::PerformPowerAttack()
 {
     // Warrior power attack logic
 }
+
+// Auto-write marker

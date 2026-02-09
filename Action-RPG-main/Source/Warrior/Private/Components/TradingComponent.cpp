@@ -20,3 +20,5 @@ void UTradingComponent::SearchMarket(FString Query)
 {
     // Add market search logic here
 }
+
+// Auto-write marker

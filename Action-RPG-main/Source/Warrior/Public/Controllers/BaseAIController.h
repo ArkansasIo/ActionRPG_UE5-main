@@ -12,3 +12,5 @@ public:
     ABaseAIController();
     // Add AI logic here
 };
+
+// Auto-write marker

@@ -48,3 +48,4 @@ namespace WarriorGameplayTags {
 	UE_DEFINE_GAMEPLAY_TAG(Shared_Event_HitReact, "Shared.Event.HitReact");
 	
 }
+// Auto-write marker

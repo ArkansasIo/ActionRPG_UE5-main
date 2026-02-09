@@ -11,3 +11,5 @@ void AMageCharacter::CastSpell()
 {
     // Mage spell casting logic
 }
+
+// Auto-write marker

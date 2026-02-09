@@ -24,3 +24,5 @@ void UWarriorHeroAnimInstance::NativeThreadSafeUpdateAnimation(float DeltaSecond
 		bShouldEnterRelaxedState = IdleElapsedTime>=EnterRelaxStateThreshold;
 	}
 }
+
+// Auto-write marker

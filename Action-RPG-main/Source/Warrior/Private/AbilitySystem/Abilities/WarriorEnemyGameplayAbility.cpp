@@ -16,3 +16,5 @@ UEnemyCombatComponent* UWarriorEnemyGameplayAbility::GetEnemyCombatComponentFrom
 {
     return GetEnemyCharacterFromActorInfo()->GetEnemyCombatComponent();
 }
+
+// Auto-write marker

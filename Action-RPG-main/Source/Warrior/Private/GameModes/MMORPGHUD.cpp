@@ -5,3 +5,5 @@ AMMORPGHUD::AMMORPGHUD()
 {
     // Initialize HUD logic here
 }
+
+// Auto-write marker

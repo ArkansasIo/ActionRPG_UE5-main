@@ -20,3 +20,5 @@ public:
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Equipment")
     FString SlotType;
 };
+
+// Auto-write marker

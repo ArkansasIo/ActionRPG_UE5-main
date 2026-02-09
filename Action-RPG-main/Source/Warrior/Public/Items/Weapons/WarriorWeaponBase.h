@@ -39,3 +39,5 @@ protected:
 public:
 	FORCEINLINE UBoxComponent* GetWeaponCollisionBox() const { return WeaponCollisionBox; }
 };
+
+// Auto-write marker

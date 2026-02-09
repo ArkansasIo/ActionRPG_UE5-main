@@ -12,3 +12,5 @@
   - Claim the Heart of Fire
 - **Lore:**
   - Built atop a river of magma, the Bastion is a fortress of fire and ruin, home to the most powerful foes in the realm.
+
+// Auto-write marker

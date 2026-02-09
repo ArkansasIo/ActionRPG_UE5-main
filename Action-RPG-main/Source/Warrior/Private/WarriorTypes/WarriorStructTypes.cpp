@@ -8,3 +8,5 @@ bool FWarriorHeroAbilitySet::IsValid() const
 {
 	return InputTag.IsValid() && AbilityToGrant;
 }
+
+// Auto-write marker

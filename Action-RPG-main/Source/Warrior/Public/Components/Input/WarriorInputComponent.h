@@ -46,3 +46,5 @@ inline void UWarriorInputComponent::BindAbilityInputAction(const UDataAsset_Inpu
 		BindAction(AbilityInputActionConfig.InputAction, ETriggerEvent::Completed, ContextObject, InputReleasedFunc, AbilityInputActionConfig.InputTag);
 	}
 }
+
+// Auto-write marker

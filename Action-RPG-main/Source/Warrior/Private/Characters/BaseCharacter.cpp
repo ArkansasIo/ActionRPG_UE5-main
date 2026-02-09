@@ -21,3 +21,5 @@ void ABaseCharacter::Die()
 {
     // Handle death logic (animation, respawn, etc.)
 }
+
+// Auto-write marker

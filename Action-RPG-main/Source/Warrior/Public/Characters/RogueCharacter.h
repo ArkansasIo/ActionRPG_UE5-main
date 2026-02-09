@@ -17,3 +17,5 @@ public:
     // Rogue abilities
     void PerformStealthAttack();
 };
+
+// Auto-write marker

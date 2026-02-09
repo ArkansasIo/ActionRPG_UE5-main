@@ -4,3 +4,5 @@
 - Rarity: Epic
 - Special Effect: Reduces stagger duration by 20%
 - Notes: Add armor visuals and defense logic in Blueprint.
+
+// Auto-write marker

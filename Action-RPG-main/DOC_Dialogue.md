@@ -18,3 +18,5 @@ Handles all in-game conversations, branching dialogue, and player choices with N
 
 ---
 *See DialogueComponent.h/cpp for code structure. Expand with new dialogue features, voiceover, and localization as needed.*
+
+// Auto-write marker

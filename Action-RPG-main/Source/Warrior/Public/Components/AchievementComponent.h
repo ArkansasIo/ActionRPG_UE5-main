@@ -14,3 +14,5 @@ public:
     UFUNCTION(BlueprintCallable, Category="Achievements")
     void UnlockAchievement(FName AchievementID);
 };
+
+// Auto-write marker

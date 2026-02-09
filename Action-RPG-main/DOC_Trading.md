@@ -16,3 +16,5 @@ Enables players to trade items directly or via an auction house.
 
 ---
 *Integrate with inventory and networking systems. Expand with new trading features as needed.*
+
+// Auto-write marker

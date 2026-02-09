@@ -48,3 +48,4 @@
     - Scaling: None
   - **Lore:**
     - Talisman blessed by the Erdtree.
+// Auto-write marker

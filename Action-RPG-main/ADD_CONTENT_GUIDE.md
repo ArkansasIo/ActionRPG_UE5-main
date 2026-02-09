@@ -36,3 +36,5 @@
 
 ---
 *Organize content by folders and templates for scalable development and easy documentation.*
+
+// Auto-write marker

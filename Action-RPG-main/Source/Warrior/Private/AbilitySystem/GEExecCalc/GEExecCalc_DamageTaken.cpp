@@ -112,3 +112,5 @@ void UGEExecCalc_DamageTaken::Execute_Implementation(const FGameplayEffectCustom
 		);
 	}
 }
+
+// Auto-write marker

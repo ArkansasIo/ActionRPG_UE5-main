@@ -8,3 +8,5 @@ UWarriorHeroAnimInstance* UWarriorHeroLinkedAnimLayer::GetHeroAnimInstance() con
 {
     return Cast< UWarriorHeroAnimInstance>(GetOwningComponent()->GetAnimInstance());
 }
+
+// Auto-write marker

@@ -5,3 +5,5 @@ APlayerCharacter::APlayerCharacter()
 {
     // Initialize player-specific logic here
 }
+
+// Auto-write marker

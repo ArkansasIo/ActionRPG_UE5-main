@@ -18,3 +18,5 @@ Tracks player achievements, milestones, and progression through the game.
 
 ---
 *Integrate with UI and player state. Expand with new achievements as needed.*
+
+// Auto-write marker

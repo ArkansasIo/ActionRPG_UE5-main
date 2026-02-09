@@ -78,3 +78,5 @@
 
 ---
 *Players select a race and main class at character creation, then specialize into a subclass at level 10. Each class and subclass can have unique abilities, stats, and playstyles.*
+
+// Auto-write marker

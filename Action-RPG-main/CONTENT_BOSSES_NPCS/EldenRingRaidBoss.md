@@ -13,3 +13,4 @@
   - Special: Immune to magic
 - **Lore:**
   - Once a protector, now corrupted by forbidden power.
+// Auto-write marker

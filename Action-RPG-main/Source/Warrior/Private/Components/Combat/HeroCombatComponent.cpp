@@ -42,3 +42,5 @@ void UHeroCombatComponent::OnWeaponPulledFromTargetActor(AActor* InteractedActor
     UAbilitySystemBlueprintLibrary::SendGameplayEventToActor(GetOwningPawn(), WarriorGameplayTags::Player_Event_HitPause, FGameplayEventData());
 
 }
+
+// Auto-write marker

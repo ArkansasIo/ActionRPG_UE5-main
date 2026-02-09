@@ -14,3 +14,5 @@
   - Special: Immune to fire damage
 - **Lore:**
   - The Ashen Dragon's shadow has scorched the highlands for centuries, its fury feared by all who dwell below.
+
+// Auto-write marker

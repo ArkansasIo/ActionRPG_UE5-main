@@ -5,3 +5,5 @@
 - Title: Legion Footsoldier
 - Abilities: Shield Bash, Rotting Strike
 - Notes: Add patrol and aggro logic in Blueprint.
+
+// Auto-write marker

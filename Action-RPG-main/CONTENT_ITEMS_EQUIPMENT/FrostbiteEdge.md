@@ -10,3 +10,5 @@
 - **Special Effect:** Chance to inflict Frostbite, slowing enemies
 - **Lore:**
   - This blade was forged in the heart of a glacier, its edge cold enough to freeze the soul.
+
+// Auto-write marker

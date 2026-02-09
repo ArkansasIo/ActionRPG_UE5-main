@@ -64,3 +64,5 @@
 
 ---
 *Expand this list with new items, stats, and equipment as the game grows. Each item can be detailed in its own file for stats, upgrades, and lore.*
+
+// Auto-write marker

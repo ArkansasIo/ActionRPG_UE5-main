@@ -22,3 +22,5 @@ void UWarriorCharacterAnimInstance::NativeThreadSafeUpdateAnimation(float DeltaS
 	GroundSpeed = OwningCharacter->GetVelocity().Size2D();
 	bHasAcceleration = OwningMovementComponent->GetCurrentAcceleration().SizeSquared2D() > 0.f;
 ;}
+
+// Auto-write marker

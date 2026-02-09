@@ -36,3 +36,5 @@ private:
 
 	TWeakObjectPtr<AWarriorHeroController> CachedWarriorHeroController;
 };
+
+// Auto-write marker

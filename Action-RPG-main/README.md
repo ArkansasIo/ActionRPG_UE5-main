@@ -47,3 +47,5 @@ Inspired by God of War, Elden Ring, and the Unreal Engine community.
 ---
 
 *This project is a learning and prototyping effort. Contributions and feedback are welcome!*
+
+// Auto-write marker

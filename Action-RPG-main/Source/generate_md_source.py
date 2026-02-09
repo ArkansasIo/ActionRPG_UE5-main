@@ -28,3 +28,4 @@ for dirpath, dirnames, filenames in os.walk(PROJECT_ROOT):
             generate_source_from_md(md_path, OUTPUT_DIR)
 
 print("All .md files recursively converted to C++ source code comments.")
+// Auto-write marker

@@ -13,3 +13,4 @@
   - Special: Cannot be staggered
 - **Lore:**
   - A relentless guardian forged from enchanted steel.
+// Auto-write marker

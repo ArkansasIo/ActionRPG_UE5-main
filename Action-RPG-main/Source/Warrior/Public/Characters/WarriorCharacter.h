@@ -17,3 +17,5 @@ public:
     // Warrior abilities
     void PerformPowerAttack();
 };
+
+// Auto-write marker

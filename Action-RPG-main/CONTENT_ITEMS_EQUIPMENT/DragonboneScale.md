@@ -9,3 +9,5 @@
 - **Special Effect:** Immune to burn
 - **Lore:**
   - Crafted from the scales of ancient dragons, this armor is prized by heroes who face the fiercest foes.
+
+// Auto-write marker

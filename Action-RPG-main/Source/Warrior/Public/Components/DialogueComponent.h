@@ -14,3 +14,5 @@ public:
     UFUNCTION(BlueprintCallable, Category="Dialogue")
     void StartDialogue();
 };
+
+// Auto-write marker

@@ -12,3 +12,5 @@ public:
     AMMORPGGameMode();
     // Add game mode logic here
 };
+
+// Auto-write marker

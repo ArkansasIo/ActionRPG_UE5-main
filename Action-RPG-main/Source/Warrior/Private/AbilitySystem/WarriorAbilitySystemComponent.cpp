@@ -51,3 +51,5 @@ void UWarriorAbilitySystemComponent::RemoveGrantedHeroWeaponAbilities(UPARAM(ref
 	}
 	InSpecHandlesToRemove.Empty();
 }
+
+// Auto-write marker

@@ -21,3 +21,5 @@ public:
     virtual void TakeDamage(float Amount);
     virtual void Die();
 };
+
+// Auto-write marker

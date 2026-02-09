@@ -13,3 +13,4 @@
   - Special: Immune to fire
 - **Lore:**
   - An ancient dragon that rules the skies above Stormveil, feared by all.
+// Auto-write marker

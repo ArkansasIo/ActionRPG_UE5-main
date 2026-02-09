@@ -15,3 +15,5 @@ class WARRIOR_API AWarriorHeroController : public APlayerController
 	GENERATED_BODY()
 	
 };
+
+// Auto-write marker

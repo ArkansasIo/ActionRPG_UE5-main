@@ -20,3 +20,5 @@ void UCraftingComponent::UpgradeItem(FName ItemID)
 {
     // Add item upgrade logic here
 }
+
+// Auto-write marker

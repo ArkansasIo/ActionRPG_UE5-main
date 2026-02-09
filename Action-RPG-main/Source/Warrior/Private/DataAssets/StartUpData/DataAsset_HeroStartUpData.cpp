@@ -21,3 +21,5 @@ void UDataAsset_HeroStartUpData::GiveToAbilitySystemComponent(UWarriorAbilitySys
 
     }
 }
+
+// Auto-write marker

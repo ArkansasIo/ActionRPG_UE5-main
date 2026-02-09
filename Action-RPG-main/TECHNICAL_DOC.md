@@ -258,3 +258,5 @@ foreach ($folder in $folders) {
 
 ---
 *Automate folder creation, document missing files, and integrate C++ classes with Blueprints for a robust workflow.*
+
+// Auto-write marker

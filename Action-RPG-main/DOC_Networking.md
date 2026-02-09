@@ -18,3 +18,5 @@ Handles multiplayer synchronization, player connections, and data replication ac
 
 ---
 *See ReplicationComponent.h/cpp for code structure. Expand with new replication features and server logic as needed.*
+
+// Auto-write marker

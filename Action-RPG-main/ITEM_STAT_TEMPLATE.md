@@ -26,3 +26,5 @@
 
 ---
 *Use this template for all new items, weapons, armor, and equipment. Expand with additional stats or effects as needed.*
+
+// Auto-write marker

@@ -43,3 +43,4 @@
     - Scaling: None
   - **Lore:**
     - Used for crafting healing items.
+// Auto-write marker

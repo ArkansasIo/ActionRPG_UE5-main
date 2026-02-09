@@ -5,3 +5,5 @@ UReplicationComponent::UReplicationComponent()
 {
     // Initialize replication logic here
 }
+
+// Auto-write marker

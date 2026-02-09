@@ -5,3 +5,5 @@ ABaseAIController::ABaseAIController()
 {
     // Initialize AI logic here
 }
+
+// Auto-write marker

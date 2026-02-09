@@ -7,3 +7,5 @@
 - **Special Effect:** Required for poison weapon upgrades
 - **Lore:**
   - Nightshade grows only in the darkest corners of the world, its touch is deadly to the unprepared.
+
+// Auto-write marker

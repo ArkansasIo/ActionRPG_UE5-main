@@ -18,3 +18,5 @@ public:
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Item")
     int32 Rarity;
 };
+
+// Auto-write marker

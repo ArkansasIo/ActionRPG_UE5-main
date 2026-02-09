@@ -23,3 +23,5 @@ Manages all user interface elements, including HUD, menus, inventory screens, an
 
 ---
 *See MainMenuWidget.h/cpp and GameHUDWidget.h/cpp for code structure. Expand with new UI widgets and features as needed.*
+
+// Auto-write marker

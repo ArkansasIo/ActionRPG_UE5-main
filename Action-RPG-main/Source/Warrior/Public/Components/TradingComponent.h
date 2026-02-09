@@ -18,3 +18,5 @@ public:
     UFUNCTION(BlueprintCallable, Category="Trading")
     void SearchMarket(FString Query);
 };
+
+// Auto-write marker

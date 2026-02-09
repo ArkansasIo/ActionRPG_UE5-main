@@ -15,3 +15,5 @@ class WARRIOR_API AWarriorBaseGameMode : public AGameModeBase
 	GENERATED_BODY()
 	
 };
+
+// Auto-write marker

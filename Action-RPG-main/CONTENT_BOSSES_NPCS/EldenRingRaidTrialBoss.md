@@ -13,3 +13,4 @@
   - Special: Immune to debuffs
 - **Lore:**
   - Arbiter of the stars, punishes those who fail the raid trial.
+// Auto-write marker

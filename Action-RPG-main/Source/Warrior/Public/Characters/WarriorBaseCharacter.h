@@ -47,3 +47,5 @@ public:
 
 	FORCEINLINE UWarriorAttributeSet* GetWarriorAttributeSet() const { return WarriorAttributeSet; }
 };
+
+// Auto-write marker
