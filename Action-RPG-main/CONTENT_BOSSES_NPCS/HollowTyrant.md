@@ -1,0 +1,16 @@
+# Example Tower Boss: The Hollow Tyrant
+- **Type:** Tower Boss
+- **Rank:** Epic
+- **Title:** The Warden of Shadows
+- **Zone:** Tower of Lost Souls
+- **Abilities:**
+  - Shadow Grasp: Immobilizes a target in darkness.
+  - Soul Rend: Deals heavy damage to a single target.
+  - Summon Shades: Calls forth shadow minions.
+- **Stats:**
+  - HP: 950,000
+  - Attack: 140
+  - Defense: 90
+  - Special: Absorbs shadow damage
+- **Lore:**
+  - The Hollow Tyrant rules the tower with an iron will, feeding on the souls of the lost.

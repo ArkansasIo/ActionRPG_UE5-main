@@ -1,0 +1,14 @@
+# Example Quest NPC: Elder Sage Miriel
+- **Type:** Quest NPC
+- **Rank:** Unique
+- **Title:** The Last Oracle
+- **Zone:** Frostspire Depths
+- **Role:** Quest Giver, Lore Keeper
+- **Quests:**
+  - The Frozen Prophecy: Retrieve the lost scrolls from the Frostspire ruins.
+  - Wisdom of Ages: Gather ancient tomes scattered across the world.
+- **Stats:**
+  - HP: 500 (non-combatant)
+  - Defense: 10
+- **Lore:**
+  - Miriel is the last of the ancient oracles, her wisdom guiding heroes through the darkest times. She remembers the world before the fall of the gods.

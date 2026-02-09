@@ -1,0 +1,50 @@
+# Elden Ring Epic Items
+
+- **Name:** Dragon Communion Seal
+  - **Type:** Sacred Seal
+  - **Rank:** Epic
+  - **Title:** Draconic Channeler
+  - **Class:** Faith
+  - **Stats:**
+    - Magic: 700
+    - Defense: 60
+  - **Sub Stats:**
+    - Dragon Incantation Boost: 15%
+    - Weight: 2.0
+  - **Attributes:**
+    - Scaling: FTH
+  - **Lore:**
+    - Seal used for dragon incantations.
+
+- **Name:** Carian Regal Scepter
+  - **Type:** Staff
+  - **Rank:** Epic
+  - **Title:** Royal Mage's Staff
+  - **Class:** Intelligence
+  - **Stats:**
+    - Magic: 950
+    - Attack: 100
+    - Defense: 50
+  - **Sub Stats:**
+    - Sorcery Boost: 20%
+    - Weight: 4.0
+  - **Attributes:**
+    - Scaling: INT
+  - **Lore:**
+    - Staff of the Carian royal family.
+
+- **Name:** Erdtree's Favor
+  - **Type:** Talisman
+  - **Rank:** Epic
+  - **Title:** Blessing of the Erdtree
+  - **Class:** Universal
+  - **Stats:**
+    - HP Boost: 10%
+    - Stamina Boost: 10%
+    - Equip Load Boost: 10%
+  - **Sub Stats:**
+    - Weight: 0.3
+  - **Attributes:**
+    - Scaling: None
+  - **Lore:**
+    - Talisman blessed by the Erdtree.

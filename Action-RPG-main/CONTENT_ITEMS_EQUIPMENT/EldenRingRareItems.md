@@ -1,0 +1,46 @@
+# Elden Ring Rare Items
+
+- **Name:** Somber Smithing Stone
+  - **Type:** Material
+  - **Rank:** Rare
+  - **Title:** Stone of Somber Enhancement
+  - **Class:** Universal
+  - **Stats:**
+    - Upgrade: +1 Special Weapon Level
+  - **Sub Stats:**
+    - Uses: 1
+    - Weight: 0.2
+  - **Attributes:**
+    - Scaling: None
+  - **Lore:**
+    - Used to upgrade special weapons.
+
+- **Name:** Glintstone Scarab
+  - **Type:** Helm
+  - **Rank:** Rare
+  - **Title:** Sorcerer's Scarab
+  - **Class:** Intelligence
+  - **Stats:**
+    - Magic Boost: 8%
+    - Defense: 40
+  - **Sub Stats:**
+    - FP Cost Increase: 10%
+    - Weight: 1.5
+  - **Attributes:**
+    - Scaling: INT
+  - **Lore:**
+    - Helm that enhances sorcery at a cost.
+
+- **Name:** Crimson Amber Medallion
+  - **Type:** Talisman
+  - **Rank:** Rare
+  - **Title:** Medallion of Vitality
+  - **Class:** Universal
+  - **Stats:**
+    - HP Boost: 6%
+  - **Sub Stats:**
+    - Weight: 0.2
+  - **Attributes:**
+    - Scaling: None
+  - **Lore:**
+    - Medallion that increases maximum HP.

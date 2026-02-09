@@ -1,0 +1,15 @@
+# Example Dungeon: Sunken Catacombs
+- **Type:** Dungeon
+- **Rank:** Rare
+- **Zone:** Underworld
+- **Boss:** Queen of the Deep
+- **Enemies:**
+  - Drowned Acolyte
+  - Bone Serpent
+  - Plague Bringer
+- **Objectives:**
+  - Defeat the Queen of the Deep
+  - Recover the Relic of Tides
+  - Escape before the flood
+- **Lore:**
+  - Once a sacred burial ground, the catacombs were flooded and corrupted by dark rituals. Now, only the bravest dare to enter its depths.

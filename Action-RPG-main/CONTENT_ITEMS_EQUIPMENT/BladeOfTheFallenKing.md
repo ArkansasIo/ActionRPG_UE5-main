@@ -1,0 +1,12 @@
+# Example Weapon: Blade of the Fallen King
+- **Type:** Greatsword
+- **Rarity:** Mythic
+- **Attack Power:** 220
+- **Magic Power:** 40
+- **Element:** Dark
+- **Strength Requirement:** 30
+- **Dexterity Requirement:** 18
+- **Weight:** 12.5
+- **Crit Chance:** 10%
+- **Special Effect:** On hit, chance to inflict Bleed
+- **Lore:** Forged from the soul of a forgotten monarch, this blade thirsts for the blood of tyrants.

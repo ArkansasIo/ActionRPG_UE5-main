@@ -1,0 +1,15 @@
+# Elden Ring Raid Boss
+- **Type:** Raid Boss
+- **Rank:** Mythic
+- **Title:** The Fallen God-Knight
+- **Zone:** Temple of Ruin
+- **Abilities:**
+  - Divine Judgment: Massive area attack
+  - Shield of Eternity: Reflects damage
+- **Stats:**
+  - HP: 80000
+  - Attack: 1500
+  - Defense: 1200
+  - Special: Immune to magic
+- **Lore:**
+  - Once a protector, now corrupted by forbidden power.

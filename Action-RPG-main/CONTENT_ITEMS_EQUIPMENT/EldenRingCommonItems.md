@@ -1,0 +1,45 @@
+# Elden Ring Common Items
+
+- **Name:** Kukri
+  - **Type:** Throwing Knife
+  - **Rank:** Common
+  - **Title:** Sharp Kukri
+  - **Class:** Universal
+  - **Stats:**
+    - Attack: 60
+    - Defense: 10
+  - **Sub Stats:**
+    - Bleed: 10%
+    - Weight: 0.1
+  - **Attributes:**
+    - Scaling: None
+  - **Lore:**
+    - Simple throwing knife used by many.
+
+- **Name:** Smoldering Butterfly
+  - **Type:** Crafting Material
+  - **Rank:** Common
+  - **Title:** Fiery Wing
+  - **Class:** Universal
+  - **Stats:**
+    - Fire Crafting Boost: 5%
+  - **Sub Stats:**
+    - Weight: 0.05
+  - **Attributes:**
+    - Scaling: None
+  - **Lore:**
+    - Used for crafting fire-based items.
+
+- **Name:** Golden Sunflower
+  - **Type:** Crafting Material
+  - **Rank:** Common
+  - **Title:** Sun's Blessing
+  - **Class:** Universal
+  - **Stats:**
+    - Healing Crafting Boost: 5%
+  - **Sub Stats:**
+    - Weight: 0.05
+  - **Attributes:**
+    - Scaling: None
+  - **Lore:**
+    - Used for crafting healing items.

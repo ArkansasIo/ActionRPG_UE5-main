@@ -1,0 +1,16 @@
+# Example Boss: God-King Vhalgor
+- **Type:** World Boss
+- **Rank:** Mythic
+- **Title:** The Eternal Tyrant
+- **Zone:** Shattered Citadel
+- **Abilities:**
+  - Tyrant's Wrath: Unleashes a massive shockwave, dealing AoE damage.
+  - Soul Drain: Drains health from nearby players.
+  - Summon Legion: Calls forth waves of Undead Legionnaires.
+- **Stats:**
+  - HP: 2,500,000
+  - Attack: 320
+  - Defense: 180
+  - Special: Immune to crowd control
+- **Lore:**
+  - Once the ruler of all realms, Vhalgor's soul was bound to the citadel after his betrayal by the gods. His rage fuels the endless war in the ruins.

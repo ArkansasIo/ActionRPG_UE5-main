@@ -1,0 +1,52 @@
+# Elden Ring Legendary Items
+
+- **Name:** Godskin Peeler
+  - **Type:** Twinblade
+  - **Rank:** Legendary
+  - **Title:** Flayer of the Divine
+  - **Class:** Dexterity
+  - **Stats:**
+    - Attack: 850
+    - Magic: 0
+    - Defense: 90
+  - **Sub Stats:**
+    - Bleed: 40%
+    - Speed: Fast
+  - **Attributes:**
+    - Scaling: DEX
+    - Weight: 7.0
+  - **Lore:**
+    - Twinblade used by the Godskin Apostles.
+
+- **Name:** Malenia's Armor
+  - **Type:** Light Armor
+  - **Rank:** Mythic
+  - **Title:** Blade of Miquella
+  - **Class:** Dexterity
+  - **Stats:**
+    - Defense: 900
+    - Magic Resist: 350
+    - Fire Resist: 250
+  - **Sub Stats:**
+    - HP Regen: 10/sec
+    - Weight: 12.0
+  - **Attributes:**
+    - Scaling: DEX
+  - **Lore:**
+    - Armor worn by the undefeated swordswoman, Malenia.
+
+- **Name:** Black Knife Tiche
+  - **Type:** Spirit Ash
+  - **Rank:** Epic
+  - **Title:** Assassin's Shade
+  - **Class:** Universal
+  - **Stats:**
+    - Summon: 1
+    - Attack: 600
+    - Defense: 300
+  - **Sub Stats:**
+    - Speed: Fast
+  - **Attributes:**
+    - Weight: 0.5
+  - **Lore:**
+    - Summons the legendary assassin shade.

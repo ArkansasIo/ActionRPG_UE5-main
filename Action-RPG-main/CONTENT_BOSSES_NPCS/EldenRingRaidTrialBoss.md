@@ -1,0 +1,15 @@
+# Elden Ring Raid Trial Boss
+- **Type:** Raid Trial Boss
+- **Rank:** Mythic
+- **Title:** The Celestial Judge
+- **Zone:** Astral Arena
+- **Abilities:**
+  - Starfall: Massive area damage
+  - Judgment: Debuffs all players
+- **Stats:**
+  - HP: 90000
+  - Attack: 1800
+  - Defense: 1400
+  - Special: Immune to debuffs
+- **Lore:**
+  - Arbiter of the stars, punishes those who fail the raid trial.

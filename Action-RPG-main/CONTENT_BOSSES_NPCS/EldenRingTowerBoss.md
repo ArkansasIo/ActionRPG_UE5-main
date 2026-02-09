@@ -1,0 +1,15 @@
+# Elden Ring Tower Boss
+- **Type:** Tower Boss
+- **Rank:** Legendary
+- **Title:** The Arcane Watcher
+- **Zone:** Tower of Sorcery
+- **Abilities:**
+  - Arcane Blast: Magic projectile
+  - Mana Drain: Reduces player mana
+- **Stats:**
+  - HP: 18000
+  - Attack: 800
+  - Defense: 700
+  - Special: Absorbs magic attacks
+- **Lore:**
+  - Keeper of ancient secrets, master of arcane arts.

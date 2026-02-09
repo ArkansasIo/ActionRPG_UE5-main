@@ -1,0 +1,18 @@
+graph TD
+  Player -->|Controls| InputSystem
+  InputSystem -->|Triggers| CharacterController
+  CharacterController -->|Moves| Character
+  Character -->|Uses| AbilitySystem
+  AbilitySystem -->|Executes| Abilities
+  Abilities -->|Affects| Enemy
+  Character -->|Equips| Inventory
+  Inventory -->|Contains| Equipment
+  Character -->|Levels Up| ProgressionSystem
+  Character -->|Joins| Party
+  Party -->|Communicates| MultiplayerSystem
+  MultiplayerSystem -->|Syncs| Server
+  Enemy -->|AI| AISystem
+  Boss -->|AI| AISystem
+  World -->|Events| EventSystem
+  EventSystem -->|Spawns| Boss
+  World -->|Explored By| Player

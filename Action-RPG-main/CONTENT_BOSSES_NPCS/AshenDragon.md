@@ -1,0 +1,16 @@
+# Example World Boss: The Ashen Dragon
+- **Type:** World Boss
+- **Rank:** Legendary
+- **Title:** The Scourge of Skies
+- **Zone:** Volcanic Highlands
+- **Abilities:**
+  - Inferno Breath: Unleashes a cone of fire, burning all in its path.
+  - Wingstorm: Knocks back and damages nearby players.
+  - Meteor Call: Summons flaming meteors from the sky.
+- **Stats:**
+  - HP: 1,800,000
+  - Attack: 270
+  - Defense: 150
+  - Special: Immune to fire damage
+- **Lore:**
+  - The Ashen Dragon's shadow has scorched the highlands for centuries, its fury feared by all who dwell below.

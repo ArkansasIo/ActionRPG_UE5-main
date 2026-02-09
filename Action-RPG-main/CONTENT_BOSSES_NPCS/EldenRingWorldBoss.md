@@ -1,0 +1,15 @@
+# Elden Ring World Boss
+- **Type:** World Boss
+- **Rank:** Mythic
+- **Title:** The Eternal Dragonlord
+- **Zone:** Stormveil Citadel
+- **Abilities:**
+  - Lightning Surge: Unleashes a storm of lightning bolts
+  - Dragon Roar: Stuns all nearby enemies
+- **Stats:**
+  - HP: 50000
+  - Attack: 1200
+  - Defense: 800
+  - Special: Immune to fire
+- **Lore:**
+  - An ancient dragon that rules the skies above Stormveil, feared by all.
